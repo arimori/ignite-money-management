@@ -1,8 +1,6 @@
 # Ignite-money-management
 Finantial control application in order to manage incomes, outcomes and summarize it.
 
-<img src="https://github.com/arimori/ignite-todo-list/blob/main/src/public/dashboard-preview.png" alt="Todo List"/>
-
 <p style="text-align: center">
 <a href="https://www.linkedin.com/in/naoshi/">
 <img alt="Developed by" src="https://img.shields.io/badge/Developed%20by-Naoshi%20Arimori-blue">
@@ -21,7 +19,8 @@ Also, it was the first time I worked with **MirageJS** so as to be able to consu
 
 The UI was built by Rocketseat Team and I'm willing to improve it by adding some breakpoints to make it able to work on mobile screens.
 
-:link: [Online Application!](https://ignitetodolist.netlify.app/)
+:link: [Online Application!](https://dtmoneyignite.netlify.app/)
+🖌 [UI prototype](https://www.figma.com/file/vV2Zn21hoJ8Shcdmrleo4N/dtmoney-Ignite-(Copy)-(Copy)?node-id=0%3A1)
 
 ### :checkered_flag: Instructions
 
