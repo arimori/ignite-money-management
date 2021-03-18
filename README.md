@@ -1,7 +1,7 @@
 # Ignite-money-management
 Finantial control application in order to manage incomes, outcomes and summarize it.
 
-<img src="https://github.com/arimori/ignite-todo-list/blob/main/src/preview/ignite-todo-list.gif" alt="Todo List"/>
+<img src="https://github.com/arimori/ignite-todo-list/blob/main/src/public/dashboard-preview.png" alt="Todo List"/>
 
 <p style="text-align: center">
 <a href="https://www.linkedin.com/in/naoshi/">
