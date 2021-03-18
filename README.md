@@ -1,46 +1,46 @@
-# Getting Started with Create React App
+# Ignite-money-management
+Finantial control application in order to manage incomes, outcomes and summarize it.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<img src="https://github.com/arimori/ignite-todo-list/blob/main/src/preview/ignite-todo-list.gif" alt="Todo List"/>
 
-## Available Scripts
+<p style="text-align: center">
+<a href="https://www.linkedin.com/in/naoshi/">
+<img alt="Developed by" src="https://img.shields.io/badge/Developed%20by-Naoshi%20Arimori-blue">
+</a>
+<img alt="GitHub language count" src="https://img.shields.io/github/languages/count/arimori/ignite-todo-list">
+<img alt="GitHub language top" src="https://img.shields.io/github/languages/top/arimori/ignite-todo-list">
+<img alt="GitHub stars" src="https://img.shields.io/github/stars/arimori/ignite-todo-list?style=social">
+<img alt="GitHub last commits" src="https://img.shields.io/github/last-commit/arimori/ignite-todo-list">
+</p>
 
-In the project directory, you can run:
 
-### `yarn start`
+### 📑 Money management | Ignite
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+---
+As part of a class from Ignite (*an acceleration program for devs, focused on preparing complete professionals for the market, training technical and behavioral skills in an intensive and practical way*) developed by [Rocketseat](https://rocketseat.com.br/), this project has been built using **React Context API** in order to manage global state and methods, handling with deposits and withdraws methods.
+Also, it was the first time I worked with **MirageJS** so as to be able to consume a Fake API to store data.
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+The UI was built by Rocketseat Team and I'm willing to improve it by adding some breakpoints to make it able to work on mobile screens.
 
-### `yarn test`
+:link: [Online Application!](https://ignitetodolist.netlify.app/)
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+### :checkered_flag: Instructions
 
-### `yarn build`
+---
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+**Project Download**
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+> git clone https://github.com/arimori/ignite-moeny-management.git
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+**Install dependencies**
 
-### `yarn eject`
+> yarn
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+**Start the application**
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+> yarn start
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
 
-## Learn More
+:heart: Developed by [Naoshi Arimori!](https://www.linkedin.com/in/naoshi/)
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
