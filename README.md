@@ -30,7 +30,7 @@ The UI was built by Rocketseat Team and I'm willing to improve it by adding some
 
 **Project Download**
 
-> git clone https://github.com/arimori/ignite-moeny-management.git
+> git clone https://github.com/arimori/ignite-money-management.git
 
 **Install dependencies**
 
