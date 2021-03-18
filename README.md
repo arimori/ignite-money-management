@@ -7,10 +7,9 @@ Finantial control application in order to manage incomes, outcomes and summarize
 <a href="https://www.linkedin.com/in/naoshi/">
 <img alt="Developed by" src="https://img.shields.io/badge/Developed%20by-Naoshi%20Arimori-blue">
 </a>
-<img alt="GitHub language count" src="https://img.shields.io/github/languages/count/arimori/ignite-todo-list">
-<img alt="GitHub language top" src="https://img.shields.io/github/languages/top/arimori/ignite-todo-list">
-<img alt="GitHub stars" src="https://img.shields.io/github/stars/arimori/ignite-todo-list?style=social">
-<img alt="GitHub last commits" src="https://img.shields.io/github/last-commit/arimori/ignite-todo-list">
+<img alt="GitHub language count" src="https://img.shields.io/github/languages/count/arimori/ignite-money-management">
+<img alt="GitHub stars" src="https://img.shields.io/github/stars/arimori/ignite-money-management?style=social">
+<img alt="GitHub last commits" src="https://img.shields.io/github/last-commit/arimori/ignite-money-management">
 </p>
 
 
