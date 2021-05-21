@@ -18,10 +18,8 @@ Also, it was the first time I worked with **MirageJS** so as to be able to consu
 
 The UI was built by Rocketseat Team and I'm willing to improve it by adding some breakpoints to make it able to work on mobile screens.
 
-<p style="text-align: center">
   :link: [Online Application!](https://dtmoneyignite.netlify.app/)
   🖌 [UI prototype](https://www.figma.com/file/vV2Zn21hoJ8Shcdmrleo4N/dtmoney-Ignite-(Copy)-(Copy)?node-id=0%3A1)
-</p>
 
 ## 📸 Screenshots
 <p style="text-align: center">
@@ -30,7 +28,6 @@ The UI was built by Rocketseat Team and I'm willing to improve it by adding some
 </p>
 
 ## :checkered_flag: Instructions
-
 **Project Download**
 
 > git clone https://github.com/arimori/ignite-money-management.git
@@ -42,6 +39,5 @@ The UI was built by Rocketseat Team and I'm willing to improve it by adding some
 **Start the application**
 
 > yarn start
-<p style="text-align: center">
-  :heart: Developed by [Naoshi Arimori!](https://www.linkedin.com/in/naoshi/)
-</p>
+ 
+:heart: Developed by [Naoshi Arimori!](https://www.linkedin.com/in/naoshi/)
